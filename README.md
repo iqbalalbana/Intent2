@@ -2,10 +2,10 @@
   Intent2
 
 # SCREENSHOT
-![Screenshot1](https://s12.postimg.org/eiltcnbv1/Screenshot_2016_10_10_14_28_05.png)
-![Screenshot2](https://s13.postimg.org/qyqxzk25f/Screenshot_2016_10_10_14_28_10.png)
-![Screenshot3](https://s13.postimg.org/6sng0o6hv/Screenshot_2016_10_10_14_28_30.png)
-![Screenshot4](https://s13.postimg.org/owqglb46b/Screenshot_2016_10_10_14_28_33.png)
+![Screenshot1](https://s11.postimg.org/ymw67hqen/Screenshot_2016_10_10_14_28_05.png)
+![Screenshot2](https://s11.postimg.org/jfg6n4yjz/Screenshot_2016_10_10_14_28_10.png)
+![Screenshot3](https://s11.postimg.org/723cg88vj/Screenshot_2016_10_10_14_28_30.png)
+![Screenshot4](https://s11.postimg.org/4yximaygf/Screenshot_2016_10_10_14_28_33.png)
 
 # IDENTITAS
 - Nama         : Muhamad Miftahul Iqbal Albana
